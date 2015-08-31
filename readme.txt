@@ -10,9 +10,8 @@ Create branch test. Branch is very important for coding.
 
 test branch management
 
-<<<<<<< HEAD
+
 test git save funciton
 
 
 Git is a free software. Do not change on master, use branch.
->>>>>>> feature--new
