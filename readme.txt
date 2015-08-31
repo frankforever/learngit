@@ -12,4 +12,4 @@ test branch management
 
 test git save funciton
 
-Git is a free software.
+Git is a free software. Do not change on master, use branch.
